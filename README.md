@@ -1,20 +1,22 @@
 <div align="center">
-<b>Hi there, I'm Rifqi Mufidianto</b>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Hi there 👋, I'm <a href="https://github.com/Mufiidz/Mufiidz">Rifqi Mufidianto</a></h2>
 
 <br />
-<br />
 
-🌱 I’m currently learning 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<h3>🌱 I’m currently learning :</h3>
+<img alt="Flutter" height="30px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png">
+<img alt="Flutter" height="30px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">
 
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufiidz&layout=compact&theme=dark)
 
-*NOTE: Top languages or most used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+</br>
 
+*NOTE: Top languages or most used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 <br />
+<br />
+
 </div>
 
 ### 📫 How to reach me:
