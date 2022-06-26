@@ -1,7 +1,5 @@
 <div align="center">
-<h2>Hi there 👋, I'm <a href="https://github.com/Mufiidz/Mufiidz">Rifqi Mufidianto</a></h2>
-
-<br />
+<h2>Hi there 👋, I'm <a href="https://mufidz.my.id/">Rifqi Mufidianto</a></h2>
 
 <h3>🌱 I’m currently learning :</h3>
 <a href="https://flutter.dev/">
