@@ -4,9 +4,14 @@
 <br />
 
 <h3>🌱 I’m currently learning :</h3>
-<img alt="Flutter" height="30px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png">
-<img alt="Flutter" height="30px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png">
+<a href="https://flutter.dev/">
+  <img align="center" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
+</a>
+<a href="https://developer.android.com/kotlin">
+  <img align="center" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
+</a>
 
+<br />
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufiidz&layout=compact&theme=dark)
